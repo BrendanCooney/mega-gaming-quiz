@@ -94,6 +94,15 @@ const questions = [
     ]
   },
   {
+    question: "When was Roblox Started?",
+    answers: [
+      { text: "2006", correct: true },
+      { text: "2007", correct: false },
+      { text: "2008", correct: false },
+      { text: "2004", correct: false }
+    ]
+  },
+  {
     question: "Is web development fun?",
     answers: [
       { text: "Kinda", correct: false },
